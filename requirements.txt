@@ -1,0 +1,6 @@
+docutils==0.13.1
+packaging==16.8
+pyTelegramBotAPI==3.7.6
+python-telegram-bot==13.4.1
+numpy==1.19
+biopython==1.78
